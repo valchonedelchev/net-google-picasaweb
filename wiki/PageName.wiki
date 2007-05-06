@@ -1,0 +1,11 @@
+#summary introduction to Net::Google::PicasaWeb.
+#labels Featured
+
+= Introduction =
+
+This project is currently a placeholder.  I'm working on a first (beta) release adn will upload some code as soon as I have my environment set up.
+
+
+= Details =
+
+No more details available at the moment.
