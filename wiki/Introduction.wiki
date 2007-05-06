@@ -1,4 +1,5 @@
 #summary introduction to Net::Google::PicasaWeb.
+#labels Featured
 
 = Introduction =
 
