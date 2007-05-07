@@ -3,9 +3,14 @@
 
 = Introduction =
 
-This project is currently a placeholder.  I'm working on a first (beta) release and will upload some code as soon as I have my environment set up.
-
+This project is to provide a perl binding to the Google Picasaweb API.  Code is currently in development.  It currently works, but documentation and test are very limited, and an initial release will not be made until they are more complete.  If you wish to try this out before a first release, then fee free to download the code from the repository here.
 
 = Details =
 
-No more details available at the moment.
+It is expected that releases, and bug tracking will be performed using the CPAN resources rather than those provided here by Google.
+
+= Links =
+
+[http://code.google.com/apis/picasaweb/overview.html Picasa Web Albums Data API]
+
+Contact author: [mailto:robertmay@cpan.org]
