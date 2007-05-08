@@ -9,4 +9,4 @@ The root directory of the repository has the follwoing set for its `svn:ignore' 
 
  * `Makefile`
  * `bm_to_blib`
- * `blib/*`
+ * `blib`
