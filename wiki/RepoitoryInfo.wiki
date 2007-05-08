@@ -1,0 +1,6 @@
+#summary Notes on things to do with the SVN repository
+
+All new text files should have the following properties set:
+
+ * `svn propset svn:keywords "Id Release" <file>`
+ * `svn propset svn:eol-style "native" <file>`
